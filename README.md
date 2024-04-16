@@ -11,7 +11,6 @@ Desarrollo de un aplicativo movil y web que permita la mensajeria entre usuarios
 ## 1.4 Stakeholders
 - Analista: Juan Diego Castillo
 - Arquitecto: Equipo de programadores (Grupo 02)
-
 - Gestor de negocio: Encargado brindado por la universidad
 - Conformance checker: Hector Meneses
 - Cliente: La entidad universitaria.
