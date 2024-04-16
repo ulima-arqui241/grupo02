@@ -1,7 +1,7 @@
 # Grupo 02
 ## Integrantes
 - [Castillo Carnero, Juan Diego](./Integrantes/castillo/jd.md)
-- [Flores Tavara, Sergio David](./Integrantes/flores/jd.md)
+- [Flores Tavara, Sergio David](./Integrantes/flores/flores.md)
 - [Herrera Solis, Sebastian Martin](./Integrantes/herrera/herrera.md)
 - Meneses Gutierrez, Hector Jose
 
