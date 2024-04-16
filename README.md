@@ -27,8 +27,11 @@ Desarrollo de un aplicativo movil y web que permita la mensajeria entre usuarios
 - Responsable de pruebas: Equipo de programadores (Grupo 02)
 -  Usuarios finales: Estudiantes, profesores y jefes de practica.
 
+## Business Model Canvas
+![Business Model Canvas](./PNGs/Canvas.png)
+
 ## Stack tecnológico 
 
 - Lenguaje de programacion Dart
 - Flutter SDK
-- Firebase 
+- Docker - instancia de contenedor RethinkDB 
