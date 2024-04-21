@@ -3,7 +3,7 @@
 - [Castillo Carnero, Juan Diego](./Integrantes/castillo/jd.md)
 - [Flores Tavara, Sergio David](./Integrantes/flores/flores.md)
 - [Herrera Solis, Sebastian Martin](./Integrantes/herrera/herrera.md)
-- Meneses Gutierrez, Hector Jose
+- [Meneses Gutierrez, Hector Jose](./Integrantes/hector/hector.md)
 
 ## Tema de proyecto
 Desarrollo de un aplicativo movil y web que permita la mensajeria entre usuarios
