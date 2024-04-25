@@ -6,7 +6,7 @@
 - [Meneses Gutierrez, Hector Jose](./Integrantes/hector/hector.md)
 
 ## Tema de proyecto
-Desarrollo de un aplicativo movil y web que permita la mensajeria entre usuarios
+Desarrollo de un aplicativo web y movil que permita el servicio de mensajería instantánea y masiva entre estudiantes, profesores y personal administrativos de una/varias universidades. En el aplicativo se deberá de crear grupos, enviar mensajes, enviar diferentes tipos de archivos multimedia, realizar llamadas, tenes gestión de administrador, etc. Todo esto con la finalidad de poder gestionar de forma apropiada las comunicaciones en el entorno académico.
  
 ## 1.4 Stakeholders
 - Analista: Juan Diego Castillo
