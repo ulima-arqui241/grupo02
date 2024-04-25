@@ -35,3 +35,19 @@ Desarrollo de un aplicativo movil y web que permita la mensajeria entre usuarios
 - Lenguaje de programacion Dart
 - Flutter SDK
 - Docker - instancia de contenedor RethinkDB 
+
+## Requerimientos del Sistema
+Requerimientos Funcionales:
+1. Registro e inicio de sesión con roles definidos: La aplicación debe permitir el registro e inicio de sesión de usuarios con roles específicos: profesor, alumno y personal administrativo. Cada rol tendrá diferentes permisos y funcionalidades.
+2. Perfiles de usuario: Cada usuario tendrá un perfil con información básica como nombre, foto de perfil, rol en la institución, etc.
+3. Mensajería one-to-one: Los usuarios podrán enviar mensajes directos a otros usuarios, independientemente de su rol.
+4. Mensajería de grupo: Los usuarios podrán crear y unirse a grupos de chat, ya sean por curso, grupo de trabajo, departamento, etc.
+5. Gestión de cursos: Los profesores podrán crear y gestionar cursos, agregar alumnos y personal administrativo, compartir materiales, etc.
+6. Anuncios y notificaciones: Los profesores y el personal administrativo podrán enviar anuncios y notificaciones importantes a los grupos de estudiantes o a toda la institución.
+7. Calendario académico: La aplicación debe incluir un calendario académico donde se muestren eventos importantes, fechas límite, horarios de clase, etc.
+8. Compartir archivos: Todos los usuarios podrán compartir archivos multimedia, documentos, presentaciones, etc., dentro de los chats individuales o de grupo.
+9. Búsqueda de usuarios y cursos: Los usuarios podrán buscar y encontrar a otros usuarios o cursos específicos dentro de la aplicación.
+10. Integración con sistemas académicos: La aplicación puede integrarse con los sistemas académicos de la institución para acceder a información de calificaciones, horarios, etc.
+11. Privacidad y seguridad: Los mensajes y archivos compartidos deben estar cifrados, y se deben implementar medidas de seguridad para proteger la privacidad de los usuarios.
+12. Notificaciones push: Los usuarios recibirán notificaciones push en tiempo real sobre nuevos mensajes, anuncios, eventos, etc.
+13. Soporte multiplataforma: La aplicación debe ser compatible con iOS y Android para una mejor accesibilidad.
