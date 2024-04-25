@@ -7,24 +7,24 @@
 
 ## Tema de proyecto
 Desarrollo de un aplicativo web y movil que permita el servicio de mensajería instantánea y masiva entre estudiantes, profesores y personal administrativos de una/varias universidades. En el aplicativo se deberá de crear grupos, enviar mensajes, enviar diferentes tipos de archivos multimedia, realizar llamadas, tenes gestión de administrador, etc. Todo esto con la finalidad de poder gestionar de forma apropiada las comunicaciones en el entorno académico.
- 
+## 1.3 Estructura del Equipo
+![Estructura del equipo](./PNGs/Organigrama.jpeg)
 ## 1.4 Stakeholders
-- Analista: Juan Diego Castillo
-- Arquitecto: Equipo de programadores (Grupo 02)
-- Gestor de negocio: Encargado brindado por la universidad
-- Conformance checker: Hector Meneses
+- Analistas: Equipo de desarrollo
+- Arquitecto: Arquitectos de SW
+- Gestor de negocio: CEO
+- Conformance checker: Asegurador de calidad (QA)
 - Cliente: La entidad universitaria.
-- DBA: Hector Meneses
-- Especialista en despliegue: Sebastian Herrera
-- Diseñador: Sergio Flores 
-- Evaluador: Sebastian Herrera
-- Implementador: Equipo de programadores (Grupo 02)
-- Integrador: Equipo de programadores (Grupo 02)
-- Responsable de mantenimento: Area de TI de la universidad
+- DBA: Técnico de despliegue
+- Especialista en despliegue: Técnico de despliegue
+- Diseñador: Diseñador general
+- Evaluador: Evaluador de producto
+- Implementador: Equipo de desarrollo
+- Integrador: Equipo de desarrollo
+- Responsable de mantenimento: Soporte de TI
 - Administrador de Línea de producto: Departamento de Innovacion
-- Jefe de proyecto: Experto relacionado a la gestion de proyectos
-- Ingenierio de sistemas: Ingeniero contratado por la universidad
-- Responsable de pruebas: Equipo de programadores (Grupo 02)
+- Jefe de proyecto: Director de proyecto
+- Responsable de pruebas: Evaluador de producto y QA
 -  Usuarios finales: Estudiantes, profesores y jefes de practica.
 
 ## Business Model Canvas
