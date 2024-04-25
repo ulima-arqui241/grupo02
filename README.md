@@ -37,7 +37,7 @@ Desarrollo de un aplicativo movil y web que permita la mensajeria entre usuarios
 - Docker - instancia de contenedor RethinkDB 
 
 ## Requerimientos del Sistema
-Requerimientos Funcionales:
+**Requerimientos Funcionales:**
 1. **Registro e inicio de sesión con roles definidos:** La aplicación debe permitir el registro e inicio de sesión de usuarios con roles específicos: profesor, alumno y personal administrativo, cada rol tendrá diferentes permisos y funcionalidades.
 2. **Perfiles de usuario:** Cada usuario tendrá un perfil con información básica como nombre, foto de perfil, rol en la institución, etc.
 3. **Mensajería one-to-one:** Los usuarios podrán enviar mensajes directos a otros usuarios, independientemente de su rol.
