@@ -5,6 +5,42 @@
 - [Herrera Solis, Sebastian Martin](./Integrantes/herrera/herrera.md)
 - [Meneses Gutierrez, Hector Jose](./Integrantes/hector/hector.md)
 
+## Índice
+
+- [1. Caso de Negocio]()
+    - [1.1 Generalidades]()
+    - [1.2 Modelo de Negocio]()
+    - [1.3 Estructura de Equipo]()
+    - [1.4 Listado de Stakeholders]()
+- [2. Requerimientos del Sistema]()
+    - [2.1 Requerimientos Funcionales]()
+    - [2.2 Requerimientos de Atributos]()
+    - [2.3 Restricciones]()
+- [3. Decisiones a Nivel de Arquitectura]()
+    - [3.1 Asignación de Responsabilidades]()
+    - [3.2 Modelo de Coordinación]()
+    - [3.3 Modelo de Datos]()
+    - [3.4 Mapeo entre Elementos de Arquitectura]()
+    - [3.5 Elección de Tecnología]()
+- [4. Tácticas]()
+    - [4.1 Disponibilidad]()
+    - [4.2 Mantenibilidad]()
+    - [4.3 Interoperabilidad]()
+    - [4.4 Rendimiento]()
+    - [4.5 Seguridad]()
+- [5. Propuesta de Arquitectura Inicial]()
+- [6. Anexo: Tópicos en Arquitectura de Software]()
+    - [6.1 Tema/Alumno]()
+    - [6.2 Desarrollo Conceptual]()
+    - [6.3 Consideraciones Técnicas]()
+        - [6.3.1 Instalación / Configuración de Servicio]()
+        - [6.3.2 Primeros Pasos]()
+    - [6.4 Demo]()
+        - [6.4.1 Escenario Práctico]()
+        - [6.4.2 Pasos para la demo]()
+        - [6.4.3 Resultados]()
+- [7. Referencias]()
+
 ## Tema de proyecto
 Desarrollo de un aplicativo web y movil que permita el servicio de mensajería instantánea y masiva entre estudiantes, profesores y personal administrativos de una/varias universidades. En el aplicativo se deberá de crear grupos, enviar mensajes, enviar diferentes tipos de archivos multimedia, realizar llamadas, tenes gestión de administrador, etc. Todo esto con la finalidad de poder gestionar de forma apropiada las comunicaciones en el entorno académico.
 ## 1.3 Estructura del Equipo
