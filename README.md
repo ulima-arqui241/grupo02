@@ -17,17 +17,17 @@
     - [2.2 Requerimientos de Atributos](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.2%20Requerimentos%20de%20Atributos.md)
     - [2.3 Restricciones](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.3%20Restricciones.md)
 3. Decisiones a Nivel de Arquitectura
-    - [3.1 Asignación de Responsabilidades]()
-    - [3.2 Modelo de Coordinación]()
-    - [3.3 Modelo de Datos]()
-    - [3.4 Mapeo entre Elementos de Arquitectura]()
-    - [3.5 Elección de Tecnología]()
+    - [3.1 Asignación de Responsabilidades](./Partes%20del%20Indice/3.%20Decisiones%20a%20Nivel%20de%20Arquitectura/3.1%20Asignacion%20de%20Responsabilidades.md)
+    - [3.2 Modelo de Coordinación](./Partes%20del%20Indice/3.%20Decisiones%20a%20Nivel%20de%20Arquitectura/3.2%20Modelo%20de%20Coordinacion.md)
+    - [3.3 Modelo de Datos](./Partes%20del%20Indice/3.%20Decisiones%20a%20Nivel%20de%20Arquitectura/3.3%20Modelo%20de%20Datos.md)
+    - [3.4 Mapeo entre Elementos de Arquitectura](./Partes%20del%20Indice/3.%20Decisiones%20a%20Nivel%20de%20Arquitectura/3.4%20Mapeo%20entre%20Elementos%20de%20Arquitectura.md)
+    - [3.5 Elección de Tecnología](./Partes%20del%20Indice/3.%20Decisiones%20a%20Nivel%20de%20Arquitectura/3.5%20Eleccion%20de%20Tecnologia.md)
 4. Tácticas
-    - [4.1 Disponibilidad]()
-    - [4.2 Mantenibilidad]()
-    - [4.3 Interoperabilidad]()
-    - [4.4 Rendimiento]()
-    - [4.5 Seguridad]()
+    - [4.1 Disponibilidad](./Partes%20del%20Indice/4.%20Tacticas/4.1%20Disponibilidad.md)
+    - [4.2 Mantenibilidad](./Partes%20del%20Indice/4.%20Tacticas/4.2%20Mantenibilidad.md)
+    - [4.3 Interoperabilidad](./Partes%20del%20Indice/4.%20Tacticas/4.3%20Interoperabilidad.md)
+    - [4.4 Rendimiento](./Partes%20del%20Indice/4.%20Tacticas/4.4%20Rendimiento.md)
+    - [4.5 Seguridad](./Partes%20del%20Indice/4.%20Tacticas/4.5%20Seguridad.md)
 5. Propuesta de Arquitectura Inicial
 6. Anexo: Tópicos en Arquitectura de Software
     - [6.1 Tema/Alumno]()
