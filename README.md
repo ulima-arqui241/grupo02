@@ -15,7 +15,7 @@
 2. Requerimientos del Sistema
     - [2.1 Requerimientos Funcionales](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.1%20Requerimentos%20Funcionales.md)
     - [2.2 Requerimientos de Atributos]()
-    - [2.3 Restricciones]()
+    - [2.3 Restricciones](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.3%20Restricciones.md)
 3. Decisiones a Nivel de Arquitectura
     - [3.1 Asignación de Responsabilidades]()
     - [3.2 Modelo de Coordinación]()
