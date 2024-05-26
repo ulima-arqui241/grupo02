@@ -14,7 +14,7 @@
     - [1.4 Listado de Stakeholders](./Partes%20del%20Indice/1.%20Caso%20de%20Negocio/1.4%20Listado%20de%20Stakeholders.md)
 2. Requerimientos del Sistema
     - [2.1 Requerimientos Funcionales](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.1%20Requerimentos%20Funcionales.md)
-    - [2.2 Requerimientos de Atributos]()
+    - [2.2 Requerimientos de Atributos](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.2%20Requerimentos%20de%20Atributos.md)
     - [2.3 Restricciones](./Partes%20del%20Indice/2.%20Requerimientos%20del%20Sistema/2.3%20Restricciones.md)
 3. Decisiones a Nivel de Arquitectura
     - [3.1 Asignación de Responsabilidades]()
