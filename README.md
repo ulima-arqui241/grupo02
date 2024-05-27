@@ -30,13 +30,8 @@
     - [4.5 Seguridad](./Partes%20del%20Indice/4.%20Tacticas/4.5%20Seguridad.md)
 5. Propuesta de Arquitectura Inicial
 6. Anexo: Tópicos en Arquitectura de Software
-    - [6.1 Tema/Alumno]()
-    - [6.2 Desarrollo Conceptual]()
-    - [6.3 Consideraciones Técnicas]()
-        - [6.3.1 Instalación / Configuración de Servicio]()
-        - [6.3.2 Primeros Pasos]()
-    - [6.4 Demo]()
-        - [6.4.1 Escenario Práctico]()
-        - [6.4.2 Pasos para la demo]()
-        - [6.4.3 Resultados]()
+    - [Code Smells / Castillo Carnero Juan Diego](./Partes%20del%20Indice/6.%20Anexo/Juan%20Diego.md)
+    - [Inteligencia Artificial - Vision / Flores Tavara Sergio David](./Partes%20del%20Indice/6.%20Anexo/Sergio.md)
+    - [Pruebas de Integración / Herrera Solis Sebastian Martin](./Partes%20del%20Indice/6.%20Anexo/Sebastian.md)
+    - [Desarrollo Seguro de Aplicaciones / Meneses Gutierrez Hector Jose](./Partes%20del%20Indice/6.%20Anexo/Hector.md)
 7. Referencias
