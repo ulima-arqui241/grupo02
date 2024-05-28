@@ -16,12 +16,23 @@
 **Escaneo de Vulnerabilidades:** Herramientas automatizadas que escanean aplicaciones en busca de vulnerabilidades conocidas basadas en bases de datos disponibles públicamente.        
 **Pruebas de Penetración:** Técnicas de piratería ética utilizadas para simular ataques del mundo real para identificar y explotar vulnerabilidades.        
 
-### Instalación/Configuración del Servicio
+### Herramientas
 **Herraminetas de paga:**
- - **HCL AppScan**: Es una suite de herramientas de seguridad de aplicaciones diseñada para identificar y gestionar vulnerabilidades en el software a lo largo del ciclo de vida de desarrollo. Originalmente desarrollada por IBM, la herramienta fue adquirida por HCL Technologies en 2019. HCL AppScan ofrece una gama completa de soluciones para pruebas de seguridad, incluyendo SAST, DAST, IAST y MAST. LINK(https://www.hcl-software.com/appscan/home)
- 
-### Primeros Pasos
+ - **HCL AppScan:** Es una suite de herramientas de seguridad de aplicaciones diseñada para identificar y gestionar vulnerabilidades en el software a lo largo del ciclo de vida de desarrollo. Originalmente desarrollada por IBM, la herramienta fue adquirida por HCL Technologies en 2019. HCL AppScan ofrece una gama completa de soluciones para pruebas de seguridad, incluyendo SAST, DAST, IAST y MAST. LINK(https://www.hcl-software.com/appscan/home)        
+**Herraminetas de paga:**
+ - **MOBSF:** Es un marco de prueba de penetración, análisis de malware y evaluación de seguridad de aplicaciones móviles todo en uno automatizado (Android/iOS/Windows) capaz de realizar análisis estáticos y dinámicos. LINK(https://github.com/MobSF/Mobile-Security-Framework-MobSF)       
+
+### Beneficios
+**Reducción del Riesgo de Filtraciones de Datos y Pérdidas Financieras:** Implementar medidas de seguridad efectivas protege contra incidentes costosos.        
+**Mayor Confianza y Lealtad del Cliente:** Los usuarios confían más en aplicaciones que demuestran un compromiso con la seguridad.      
+**Reputación de Marca Mejorada:** Las empresas que priorizan la seguridad son vistas como más profesionales y confiables.       
+**Cumplimiento de las Regulaciones y Estándares de la Industria:** Adherirse a normas como OWASP, NIST, y ISO/IEC 27001 asegura el cumplimiento legal y regulatorio.        
+**Costos de Desarrollo Reducidos a Largo Plazo:** Prevenir vulnerabilidades desde el inicio evita costosos retrabajos y parches de emergencia.      
+
+### Desafios
+**Falta de Experiencia en Seguridad:** Muchos desarrolladores carecen de los conocimientos y habilidades necesarios para crear aplicaciones seguras.        
+**Limitaciones de Tiempo y Costos:** La implementación de medidas de seguridad puede aumentar el tiempo y el costo de desarrollo.       
+**Complejidad de las Aplicaciones Modernas:** La creciente complejidad de las aplicaciones de software dificulta su protección eficaz.      
+**Panorama de Amenazas en Evolución:** Las amenazas a la seguridad evolucionan constantemente y requieren vigilancia y adaptación constantes.   
+
 ## Demo
-### Escenario Práctico
-### Pasos para la demo
-### Resultados
