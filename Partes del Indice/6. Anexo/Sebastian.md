@@ -27,6 +27,7 @@ La instalacion de wordpress es sencilla, ya que solo se requiere descargar el so
 ### Primeros Pasos
 
 Dentro de los primeros pasos, algunas definiciones importantes a conocer sobre Postman son el uso de colecciones, ambientes y variables
+
 ![PostmanCEV](../../PNGs/Anexo/Sebas/PostmanCEV.png)
 
 ## Demo
