@@ -12,5 +12,5 @@ En esta seccion, se dara información sobre la propuesta de arquitectura inicial
 
 ## 3. Diagrama de componentes
 
-![C3 Model](../../PNGs/Mapeo%20de%20Arqui.jpg)
+![C3 Model](../../PNGs/Mapeo%20de%20Arqui.jpg)  
 [Regresar al índice](../../README.md)

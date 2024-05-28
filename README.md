@@ -28,7 +28,7 @@
     - [4.3 Interoperabilidad](./Partes%20del%20Indice/4.%20Tacticas/4.3%20Interoperabilidad.md)
     - [4.4 Rendimiento](./Partes%20del%20Indice/4.%20Tacticas/4.4%20Rendimiento.md)
     - [4.5 Seguridad](./Partes%20del%20Indice/4.%20Tacticas/4.5%20Seguridad.md)
-5. Propuesta de Arquitectura Inicial
+5. [Propuesta de Arquitectura Inicial](./Partes%20del%20Indice/5.%20Propuesta%20de%20Arquitectura%20Inicial/Propuesta%20de%20Arquitectura%20Inicial.md)
 6. Anexo: Tópicos en Arquitectura de Software
     - [Code Smells / Castillo Carnero Juan Diego](./Partes%20del%20Indice/6.%20Anexo/Juan%20Diego.md)
     - [Inteligencia Artificial - Vision / Flores Tavara Sergio David](./Partes%20del%20Indice/6.%20Anexo/Sergio.md)
