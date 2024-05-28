@@ -37,6 +37,8 @@ Para esta demo se utilizarán API's realizadas para un software de cafeteria. Du
 
 ### Pasos para la demo y resultados
 
+Los pasos y los resultados del demo se podran encontrar en el siguiente video: https://youtu.be/VU4ncHc62WA
+
 ### Referencias
 
 - Integration testing: A detailed guide. (2023, marzo 10). BrowserStack. https://www.browserstack.com/guide/integration-testing
