@@ -1,9 +1,6 @@
 # Inteligencia Artificial - Vision
-## Desarrollo Conceptual
-## Consideraciones Técnicas
-### Instalación/Configuración del Servicio
-### Primeros Pasos
+## Link de documento en pdf
+Enlace del documento: https://drive.google.com/file/d/1H2G7GaBGc-zF1i585YDf_tFUo3mzAFTJ/view?usp=sharing
+
 ## Demo
-### Escenario Práctico
-### Pasos para la demo
-### Resultados
+Enlace de la demo: https://youtu.be/7hWrZ4Ng8v0
