@@ -35,3 +35,9 @@
     - [Pruebas de Integración / Herrera Solis Sebastian Martin](./Partes%20del%20Indice/6.%20Anexo/Sebastian.md)
     - [Desarrollo Seguro de Aplicaciones / Meneses Gutierrez Hector Jose](./Partes%20del%20Indice/6.%20Anexo/Hector.md)
 7. Referencias
+
+8. Trabajos Individuales
+   1. Patrones Claud
+        - [Cache-Aside/ Hector Meneses](<Trabajos Inviduales/Patrones Cloud/Hector Meneses.md>)
+   2. Tema Indicidual (Segunda Parte)
+        - [API Seguro/Hector Meneses](<Trabajos Inviduales/Tema Individual (Segunda Parte)/Hector Meneses.md>)
