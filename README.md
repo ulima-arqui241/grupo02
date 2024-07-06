@@ -37,7 +37,7 @@
 7. Referencias
 
 8. Trabajos Individuales
-   1. Patrones Claud
+   1. Patrones Cloud
         - [Cache-Aside/ Hector Meneses](<Trabajos Inviduales/Patrones Cloud/Hector Meneses.md>)
    2. Tema Indicidual (Segunda Parte)
         - [API Seguro/Hector Meneses](<Trabajos Inviduales/Tema Individual (Segunda Parte)/Hector Meneses.md>)
