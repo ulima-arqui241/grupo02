@@ -33,3 +33,6 @@ La gestión de vulnerabilidades implica identificar, evaluar y mitigar las vulne
 - **Monitoreo y Registro:** Implementar mecanismos de monitoreo y registro para detectar y responder a actividades sospechosas o no autorizadas. Los registros deben ser analizados regularmente para identificar patrones de ataque.
 
 - **Pruebas de Seguridad de Aplicaciones Estáticas (SAST) y Dinámicas (DAST):** Utilizar herramientas de SAST y DAST para identificar vulnerabilidades en el código fuente y en la aplicación en ejecución, respectivamente.
+
+### DEMO
+https://drive.google.com/file/d/1GknqksREBhAMYCjflE0twcZ-XupzCFyR/view?usp=sharing
