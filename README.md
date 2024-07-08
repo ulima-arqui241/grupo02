@@ -42,6 +42,9 @@
     - [Desarrollo Seguro de Aplicaciones / Meneses Gutierrez Hector Jose](./Partes%20del%20Indice/10.%20Topicos%20en%20Arquitectura%20de%20Software%20-%20Entrega%201/Hector.md)
 11. Tópicos en Arquitectura de Software - Entrega 2
 12. Patrones Cloud
-    - [Cache-Aside/ Hector Meneses](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Patrones%20Cloud/Hector%20Meneses.md)
-13. Tema Individual (Segunda Parte) - [API Seguro/Hector Meneses](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/Hector%20Meneses.md) - [Automatización de Pruebas / Juan Diego Castillo Carnero](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/JuanDiego.md) - [MicrofrontEnds / Sebastian Herrera Solis](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/Sebastian.md) - [Data Warehouse vs Data Lake vs Data Mesh / Sergio Flores Tavara](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/Sergio.md)
-    /
+- [Cache-Aside: Hector Meneses](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Patrones%20Cloud/Hector%20Meneses.md)
+13. Tema Individual (Segunda Parte) 
+- [API Seguro: Hector Meneses](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/Hector%20Meneses.md) 
+- [Automatización de Pruebas: Juan Diego Castillo Carnero](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/JuanDiego.md) 
+- [MicrofrontEnds: Sebastian Herrera Solis](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/Sebastian.md) 
+- [Data Warehouse vs Data Lake vs Data Mesh: Sergio Flores Tavara](./Partes%20del%20Indice/11.%20Topicos%20en%20Arquitectura%20de%20Software%20%20Entrega%202/Tema%20Individual/Sergio.md)
