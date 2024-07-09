@@ -3,7 +3,7 @@
 - [Casos de Uso](./Drivers/CasosDeUso.md)
 - [Escenarios de Atributos de Calidad](./Drivers/AtributosDeCalidad.md)
 - [Restricciones](./Drivers/Restricciones.md)
-- [Preocupaciones a Nivel de Arquitectura](./Drivers/Restricciones.md)
+- [Preocupaciones a Nivel de Arquitectura](./Drivers/Preocupaciones.md)
 
 [Primer Paso: Revisión de Entradas](./RevisiónDeEntradas.md)
 
