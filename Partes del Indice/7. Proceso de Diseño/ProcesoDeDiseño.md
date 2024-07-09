@@ -23,7 +23,7 @@ Segunda Iteración
 3. [Elegir Uno o Más Conceptos de Diseño que Satisfacen el Driver Seleccionado](./Iteración2/Paso4.md)
 4. [Instanciar Elementos de Arquitectura, Asignar Responsabilidades y Definir Interfaces](./Iteración2/Paso5.md)
 5. [Bosquejar Vistas y Registrar Decisiones de Diseño](./Iteración2/Paso6.md)
-6. [Analizar el Diseño Actual, Revisar Objetivo de la Iteración y Logro del Propósito de Diseño](./Iteración1/Paso2.md)
+6. [Analizar el Diseño Actual, Revisar Objetivo de la Iteración y Logro del Propósito de Diseño](./Iteración2/Paso7.md)
 
 Tercera Iteración
 
