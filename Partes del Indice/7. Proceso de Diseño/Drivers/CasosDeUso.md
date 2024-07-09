@@ -16,3 +16,5 @@
 | CU12   | Uso de Single-Sign-On                    | Los usuarios tendrán acceso al SSO, mediante el cual se gestionará de forma más sencilla el acceso a la plataforma de chat.                                                                                       |
 | CU13   | Mantenimiento y Actualización            | El software desarrollado debe ser mantenible en el tiempo y fácil de actualizarse                                                                                                                                 |
 | CU14   | Nuevas Funcionalidades                   | El software desarrollado debe ser apto de añadir nuevas funcionalidades con facilidad.                                                                                                                            |
+
+[Regresar al Proceso de Diseño](../ProcesoDeDiseño.md)

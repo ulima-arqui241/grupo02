@@ -18,3 +18,5 @@
 | QA-14  | Integridad     | Los Archivos enviados se mantienen tal y como fueron enviandos por el usuario original | CU05 - Envío de Archivos                        | ...                 |
 | QA-15  | Disponibilidad | Necesidad de Actualización de la Plataforma                                            | CU13 - Mantenimiento y Actualización            | ...                 |
 | QA-16  | Seguridad      | Detección de Usuarios que realicen actividades Sospechosas                             | CU09 - Moderación de Usuarios                   | ...                 |
+
+[Regresar al Proceso de Diseño](../ProcesoDeDiseño.md)

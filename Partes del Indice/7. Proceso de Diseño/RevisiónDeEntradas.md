@@ -26,3 +26,5 @@ Se seleccionaron todos los atributos de calidad (QA-01 al QA-16) debido a la imp
 ## Restricciones y Preocupaciones de Arquitectura
 
 - Fueron seleccionadas todas las restrcciones (CON-01 al CON-06).
+
+[Regresar al Proceso de Diseño](../ProcesoDeDiseño.md)

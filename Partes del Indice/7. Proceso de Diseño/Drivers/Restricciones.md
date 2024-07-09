@@ -8,3 +8,5 @@
 | CON-04 | El sistema debe considerar elementos de seguridad para salvaguardar la privacidad de los mensajes. |
 | CON-05 | Se deben almacenar de forma permanente los mensajes enviados.                                      |
 | CON-06 | La arquitectura debe garantizar la fácil mantenibilidad del la plataforma a largo plazo.           |
+
+[Regresar al Proceso de Diseño](../ProcesoDeDiseño.md)
