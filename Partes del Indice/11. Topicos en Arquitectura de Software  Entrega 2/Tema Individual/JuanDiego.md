@@ -25,7 +25,19 @@ Las pruebas automatizadas consisten en la aplicación de herramientas de softwar
 
 La pirámide de la automatización de pruebas ayuda con la comprensión de la frecuencia a realizar cada tipo de prueba. Esta se divide en cuatro niveles, la capa inferior representa las pruebas que deben realizarse con mayor frecuencia. Los niveles se hacen más pequeños cuanto más representan pruebas que deberían realizarse con menos frecuencia. La pirámide se ordena de mayor a menor de la siguiente forma:
 
-1. Pruebas Unitarias
-2. Pruebas de Integración
-3. Pruebas API
-4. Pruebas de Interfaz de Usuario
+1. Pruebas Unitarias: Estos tests unitarios son los encargados de testear componentes o funcionalidades individuales para validar que funciona de la manera esperada en condiciones aisladas.
+2. Pruebas de Integración: Se trata de pruebas que validan la interacción de un fragmento de código con componentes externos. Estos componentes pueden variar desde bases de datos, APIs y similares fuentes de información.
+3. Pruebas de Interfaz de Usuario: Estas pruebas verifican el sistema completo desde el punto de vista del usuario final, simulando escenarios reales de uso.
+
+## Demo
+### Requisitos
+- Para ejecutar la demo, se requiere de un navegador basado el Chromium.
+- Se debe instalar la extensión de Selenium IDE para utilizarlo dentro del navegador.
+
+### Ejecución
+1. Una vez instalado el Selenium IDE, se hace clic en la extensión y creamos un nuevo proyecto.
+2. Hacemos click en el botón de la grabadora y ponemos la página web a la cual queremos testear.
+3. Una vez dentro, realizamos las acciones las cuales queremos testear.
+4. Terminamos la grabación y podemos modificar todos los datos que querramos para realizar diversos casos.
+
+Enlace de la Demo: https://youtu.be/PhY0mi3knBg
