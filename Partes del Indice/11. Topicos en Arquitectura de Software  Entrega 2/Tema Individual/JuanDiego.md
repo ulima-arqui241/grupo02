@@ -29,7 +29,7 @@ La pirámide de la automatización de pruebas ayuda con la comprensión de la fr
 2. Pruebas de Integración: Se trata de pruebas que validan la interacción de un fragmento de código con componentes externos. Estos componentes pueden variar desde bases de datos, APIs y similares fuentes de información.
 3. Pruebas de Interfaz de Usuario: Estas pruebas verifican el sistema completo desde el punto de vista del usuario final, simulando escenarios reales de uso.
 
-## Demo
+## Demo con Selenium IDE
 ### Requisitos
 - Para ejecutar la demo, se requiere de un navegador basado el Chromium.
 - Se debe instalar la extensión de Selenium IDE para utilizarlo dentro del navegador.
@@ -41,3 +41,39 @@ La pirámide de la automatización de pruebas ayuda con la comprensión de la fr
 4. Terminamos la grabación y podemos modificar todos los datos que querramos para realizar diversos casos.
 
 Enlace de la Demo: https://youtu.be/PhY0mi3knBg
+
+## Demo con Selenium + Python
+### Requisitos
+- Para ejecutar la demo, se requiere de tener instalado Google Chrome.
+- Como se usará python, se deberá instalar selenium, para esto se escribe en el terminal "pip install -U selenium".
+- Se requiere de un web driver, para ello se debe descargar el chromedriver para la versión a la que corresponda el sistema operativo desde el siguiente enlance "https://googlechromelabs.github.io/chrome-for-testing/#stable".
+
+### Ejecución
+1. Se debe crear un archivo en python y pegar el siguiente código:
+
+    ```
+    from selenium import webdriver
+    from selenium.webdriver.chrome.service import Service
+
+    base_url = "https://www.amazon.com/"
+    
+    executable_path = r"C:/Users/user/Downloads/chromedriver_win32/chromedriver.exe"
+
+    service = Service(executable_path)
+    options = webdriver.ChromeOptions()
+    driver = webdriver.Chrome(service=service, options=options)
+
+    driver.maximize_window()
+
+    driver.implicitly_wait(10)
+
+    driver.get(base_url)
+
+    assert "Google" in driver.title
+
+    driver.close()
+    ```
+
+2. Se ejecuta el código, pero no va a encontrar Google como titulo ya que se está buscando en la página de Amazon. Indicando que la prueba falló.
+
+Enlace de la Demo: https://youtu.be/HWXAVONQMyg
