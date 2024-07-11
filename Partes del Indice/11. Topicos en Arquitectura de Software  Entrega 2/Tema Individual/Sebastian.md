@@ -25,4 +25,4 @@ npx create-single-spa --moduleType app-parcel
 
 El cual crea la aplicacion single-spa que puede utilizar sus propios frameworks o librerias. El cual tiene libertad siempre que se encuentre montada dentro de single-spa.
 
-[Video demo](https://drive.google.com/file/d/1vmHfjbHt9MdtxZ-OTCJ6PWXpx6_bm-hc/view?usp=sharing)
+[Video demo](https://www.youtube.com/watch?v=xw7fnIxamBo)
