@@ -1,4 +1,4 @@
-# Data Warehouse VS Data Lake VS DATA Mesh
+# Data Warehouse VS Data Lake VS Data Mesh
 
 ## Link de documento en pdf
 Enlace del documento: https://drive.google.com/file/d/1OPWEDUbapCfr1U9o5vc66ohcJIZAQl-T/view?usp=sharing
