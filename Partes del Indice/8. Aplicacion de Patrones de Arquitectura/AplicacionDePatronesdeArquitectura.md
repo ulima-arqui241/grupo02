@@ -12,7 +12,7 @@ El proyecto se organiza en dos partes principales: el servidor (api) y el client
    - **Cliente:** La carpeta client contiene la lógica de presentación y comunicación con el servidor.
    - **Servidor:** La carpeta api implementa la lógica de negocio utilizando Express y Node.js, y se conecta a MongoDB para la persistencia de datos.
 
-![alt text](../../PNGs/Cliente-Servidor.png)
+![c-s](../../PNGs/Cliente-Servidor.png)
 
 3. **Patrón de Capas:**
    - **Capa de Presentación:** Implementada en client, maneja la interfaz de usuario.

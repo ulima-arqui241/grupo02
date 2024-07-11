@@ -2,37 +2,31 @@
 
 Las API (Interfaces de Programación de Aplicaciones) juegan un papel crucial en la comunicación entre diferentes sistemas. Para garantizar que las API sean seguras, es esencial implementar medidas de autenticación y autorización adecuadas, así como gestionar las vulnerabilidades de manera proactiva.
 
-### Autenticación
-La autenticación es el proceso de verificar la identidad de un usuario o sistema que intenta acceder a una API. Existen varios métodos de autenticación que se pueden implementar, entre ellos:
+### Herramientas Utilizadas:
 
-- **Autenticación Básica (Basic Authentication):** Utiliza un nombre de usuario y una contraseña codificados en Base64. Aunque es sencillo de implementar, no es seguro por sí solo y debe usarse junto con HTTPS para proteger las credenciales.
+#### Postman:
 
-- **Tokens de Acceso (OAuth2):** OAuth2 es un protocolo de autorización que permite a las aplicaciones obtener acceso limitado a los recursos de un usuario sin exponer sus credenciales. Este método es más seguro y escalable para aplicaciones modernas.
+- **Descripción:** Postman es una plataforma para desarrollar, probar y documentar APIs. Permite a los desarrolladores enviar solicitudes HTTP a sus APIs y verificar las respuestas, asegurándose de que el comportamiento sea el esperado.
+- **Uso en Seguridad de APIs:** Postman facilita la creación de pruebas automatizadas para asegurar que las APIs funcionen correctamente bajo diferentes escenarios, incluyendo pruebas de carga y estrés, validación de respuestas y verificación de autenticación y autorización.
 
-- **JWT (JSON Web Tokens):** JWT es un estándar abierto que define una forma compacta y autónoma para transmitir información de manera segura entre partes como un objeto JSON. Es ampliamente utilizado para la autenticación basada en tokens en aplicaciones web.
+#### OWASP ZAP (Zed Attack Proxy):
 
-### Autorización
-La autorización es el proceso de determinar si un usuario autenticado tiene permisos para acceder a un recurso específico. Los enfoques comunes para la autorización incluyen:
+- **Descripción:** OWASP ZAP es una herramienta de código abierto diseñada para encontrar vulnerabilidades en aplicaciones web, incluyendo APIs. Es mantenida por la Fundación OWASP y es ampliamente utilizada para pruebas de penetración.
+- **Uso en Seguridad de APIs:** OWASP ZAP permite realizar escaneos automatizados y manuales de seguridad en APIs, identificando vulnerabilidades como inyección de SQL, Cross-Site Scripting (XSS), y otros problemas de seguridad comunes. También ofrece funcionalidades para simular ataques y evaluar la robustez de las defensas implementadas.
 
-- **Roles y Permisos:** Asignar roles a los usuarios y definir qué acciones pueden realizar cada rol. Por ejemplo, un usuario con el rol de "administrador" puede tener permisos para crear, leer, actualizar y eliminar recursos, mientras que un usuario con el rol de "usuario" solo puede leer ciertos recursos.
+### Implementación de Seguridad en APIs:
 
-- **Políticas Basadas en Atributos (ABAC - Attribute-Based Access Control):** Este enfoque permite tomar decisiones de autorización basadas en atributos del usuario, del recurso y del entorno. Es más flexible y granular que el control basado en roles (RBAC).
+1. **Autenticación:**
+- **Descripción:** La autenticación es el proceso de verificar la identidad de un usuario o sistema que intenta acceder a un recurso. Es fundamental implementar mecanismos robustos para asegurar que solo los usuarios autorizados puedan acceder a las APIs.
+- **Pruebas con Postman:** Crear colecciones de pruebas que verifiquen diferentes escenarios de autenticación, asegurándose de que las APIs respondan correctamente a usuarios autenticados y no autenticados.
 
-- **Listas de Control de Acceso (ACLs):** Las ACLs son listas que especifican qué usuarios o sistemas tienen permiso para acceder a un recurso particular y qué tipo de acceso tienen (lectura, escritura, ejecución).
+2. **Autorización:**
+- **Descripción:** La autorización es el proceso de verificar los permisos de un usuario o sistema autenticado para acceder a recursos específicos. Asegurar que las políticas de autorización estén correctamente implementadas para prevenir accesos no autorizados.
+- **Pruebas con Postman:** Configurar pruebas que validen la lógica de autorización, asegurándose de que los usuarios solo puedan acceder a los recursos para los cuales tienen permisos adecuados.
 
-
-### Gestión de Vulnerabilidades
-La gestión de vulnerabilidades implica identificar, evaluar y mitigar las vulnerabilidades en las API. Las prácticas recomendadas incluyen:
-
-- **Escaneo de Vulnerabilidades:** Utilizar herramientas automatizadas para escanear las API en busca de vulnerabilidades conocidas, como inyecciones SQL, exposiciones de datos sensibles y configuración incorrecta.
-
-- **Pruebas de Penetración (Pentesting):** Realizar pruebas de penetración periódicas para identificar posibles vulnerabilidades explotables en las API.
-
-- **Actualizaciones y Parches:** Mantener las bibliotecas y dependencias actualizadas para protegerse contra vulnerabilidades conocidas. Implementar un proceso de parcheo rápido para responder a nuevas amenazas.
-
-- **Monitoreo y Registro:** Implementar mecanismos de monitoreo y registro para detectar y responder a actividades sospechosas o no autorizadas. Los registros deben ser analizados regularmente para identificar patrones de ataque.
-
-- **Pruebas de Seguridad de Aplicaciones Estáticas (SAST) y Dinámicas (DAST):** Utilizar herramientas de SAST y DAST para identificar vulnerabilidades en el código fuente y en la aplicación en ejecución, respectivamente.
+3. **Gestión de Vulnerabilidades:**
+- **Descripción:** La gestión de vulnerabilidades implica la identificación, evaluación y mitigación de vulnerabilidades en las APIs. Implementar procesos de escaneo y monitoreo continuo para detectar y solucionar vulnerabilidades de manera proactiva.
+- **Pruebas con OWASP ZAP:** Utilizar OWASP ZAP para realizar escaneos de seguridad en las APIs, identificando vulnerabilidades como inyección de SQL, Spider, y otras. Evaluar los resultados de los escaneos y aplicar las correcciones necesarias para mitigar las vulnerabilidades.
 
 ### DEMO
 https://drive.google.com/file/d/1GknqksREBhAMYCjflE0twcZ-XupzCFyR/view?usp=sharing
