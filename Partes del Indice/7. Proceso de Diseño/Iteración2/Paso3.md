@@ -4,8 +4,12 @@ Debido a que el sistema se está realizando desde cero, es necesario refinar los
 
 ## Módulo de Mensajes
 
-- Asignación de un perfil único para cada usuario de la plataforma.
+- Asignación a cada usuario de la posibilidad de enviar mensajes o archivos por medio de un canal de chat.
 
-## Módulo de Integración
+## Módulo de Login
 
-- Optimizar el sistema para la integración a apis de terceros.
+- Posibilidad de cada usuario de acceder con sus credenciales pueda hacer uso de la plataforma de la plataforma.
+
+## Módulo de Moderación
+
+- Cada usuario con el rol de administrador podrá eliminar los mensajes y a aquellos usuarios los cuales no considere aptos para la sala.
