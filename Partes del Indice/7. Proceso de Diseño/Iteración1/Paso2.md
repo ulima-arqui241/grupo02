@@ -6,12 +6,12 @@ El objetivo de esta iteración es establecer la estructura general del sistema a
 
 - Casos de Uso:
   - CU01
-  - CU03
   - CU04
+  - CU05
 - Escenarios de Atributos de Calidad:
-  - QA-02
+  - QA-03
   - QA-10
-  - QA-14
+  - QA-13
 - Restricciones:
   - CON-01
   - CON-04
