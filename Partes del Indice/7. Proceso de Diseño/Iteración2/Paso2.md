@@ -6,12 +6,15 @@ Para ello, abordaremos las estructuras de soporte de las funcionalidades primari
 ## Drivers
 
 - Casos de Uso:
+  - CU01
+  - CU03
+  - CU04
+  - CU05
   - CU07
-  - CU09
-  - CU11
 - Escenarios de Atributos de Calidad
+  - QA-04
   - QA-06
-  - QA-11
+  - QA-12
 - Restricciones
   - CON-03
 - Preocupaciones
