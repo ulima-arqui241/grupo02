@@ -1,0 +1,20 @@
+# Objetivo de la Iteración
+
+El objetivo de esta iteracion es desarrollar las secciones gráficas correspondientes, manteniendo una buena usabilidad y experiencia del usuario.
+
+## Drivers
+
+- Casos de Uso:
+  - CU02
+  - CU06
+  - CU08
+  - CU09
+  - CU10
+- Escenarios de Atributos de Calidad
+  - QA-01
+  - QA-02
+  - QA-09
+- Restricciones
+  - CON-03
+- Preocupaciones
+  - CRN-03
