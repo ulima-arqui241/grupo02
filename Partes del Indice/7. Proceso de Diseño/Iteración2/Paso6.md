@@ -1,3 +1,3 @@
 # Bosquejo de Vistas de Arquitectura
 
-![Modelo de dominio inicial](../../../PNGs/Mapeo%20de%20Arqui.jpg)
+![alt text](../../../PNGs/Iteracion_02.png)

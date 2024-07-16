@@ -1,3 +1,3 @@
 # Bosquejo de Vista de Arquitectura
 
-![MVC](../../../PNGs/mvc.png)
+![alt text](../../../PNGs/Iteracion01.png)
