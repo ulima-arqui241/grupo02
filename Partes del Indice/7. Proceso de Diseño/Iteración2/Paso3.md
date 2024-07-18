@@ -10,6 +10,6 @@ Debido a que el sistema se está realizando desde cero, es necesario refinar los
 
 - Posibilidad de cada usuario de acceder con sus credenciales pueda hacer uso de la plataforma de la plataforma.
 
-## Módulo de Moderación
+## Módulo de Videollamadas
+- Posibilidad de los usuarios de realizar llamadas y videollamadas con los usuarios dentro del chat
 
-- Cada usuario con el rol de administrador podrá eliminar los mensajes y a aquellos usuarios los cuales no considere aptos para la sala.
