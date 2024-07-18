@@ -1,9 +1,9 @@
 # Decisiones de Diseño
 
-| Código | Decisión de Diseño                                                                 | Justificación                                                                                                                                                               |
-| ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DEC-03 | Utilización de Web Sockets                          | El uso de websockets mejora el rendimiento ante el uso del http, generando una menor sobrecarga y una menor latencia. Ante la necesidad de una comunicación inmediata, resulta una mejor opción. Util para CON-01. |
-| DEC-07 | Crear un modelo de dominio para la aplicación                                      | Es recomendable crear un modelo inicial documentando las principales y sus relaciones                                                                                       |
-| DEC-08 | Descomponer objetos de dominio en componentes generales y especializados           | Una vez definidos los objetivos de dominio, se debe descomponer a nivel de módulos. La especialización de los módulos puede depender de la capa con que estamos trabajando. |
-| DEC-09 | Identificación objetos de dominio que se relacionen con requerimientos funcionales | Se busca el encapsulamiento de cada elemento funcional de la aplicación en objetos de dominio.                                                                              |
-| DEC-10 |                                                                                   | -                                                                                                                                                                           |
+| Código | Decisión de Diseño                                                                 | Justificación                                                                                  |
+| ------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| DEC-06 | Crear un modelo de dominio para la aplicación                                      | Es recomendable crear un modelo inicial documentando las principales y sus relaciones          |
+| DEC-07 | Identificación objetos de dominio que se relacionen con requerimientos funcionales | Se busca el encapsulamiento de cada elemento funcional de la aplicación en objetos de dominio. |
+| DEC-08 | Implementación del Módulo de Mensajes de Web Sockets                               | -                                                                                              |
+| DEC-09 | Implementación del Módulo de Login                                                 | -                                                                                              |
+| DEC-10 | Implementación del Módulo de Llamadas y Videollamadas                              | -                                                                                              |
