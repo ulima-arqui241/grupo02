@@ -11,6 +11,7 @@ Para ello, abordaremos las estructuras de soporte de las funcionalidades primari
   - CU04
   - CU05
   - CU07
+  - CU10
 - Escenarios de Atributos de Calidad
   - QA-04
   - QA-06

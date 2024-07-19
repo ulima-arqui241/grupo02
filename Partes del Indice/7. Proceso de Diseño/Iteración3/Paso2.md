@@ -9,7 +9,6 @@ El objetivo de esta iteracion es desarrollar las secciones gráficas correspondi
   - CU06
   - CU08
   - CU09
-  - CU10
 - Escenarios de Atributos de Calidad
   - QA-01
   - QA-02
